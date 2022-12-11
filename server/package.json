@@ -9,7 +9,7 @@
     "watch": "parcel watch --target node ./src/index.ts"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parcel": "^1.12.4"
   },
   "devDependencies": {
